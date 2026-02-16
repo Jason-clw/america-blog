@@ -6,28 +6,28 @@ import NewsCard from '../components/NewsCard';
 export default function Home({ standingsData }) {
   const latestNews = [
     {
-      title: "Victoria en el cumpleaños 99: América derrotó a Santa Fe",
-      summary: "Con gol del debutante Daniel Valencia, La Mecha celebró su aniversario número 99 con una victoria crucial ante Independiente Santa Fe en el Pascual Guerrero.",
-      date: "16 Feb 2026",
-      category: "LIGA BETPLAY",
-      tag: "99Años",
-      image: "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
+      "title": "¡Regalo de 99 años! América vence a Santa Fe en el Pascual",
+      "summary": "En una noche mágica celebrando casi un siglo de historia, 'La Mecha' derrotó 1-0 al León. El gol del juvenil Daniel Valencia desató la locura en la caldera, reafirmando el gran momento bajo el mando de David González.",
+      "date": "16 Feb 2026",
+      "category": "LIGA BETPLAY",
+      "tag": "99Años",
+      "image": "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
     },
     {
-      title: "Jean Fernandes: Nueva era en el arco escarlata",
-      summary: "El portero paraguayo debutó con éxito y dejó un mensaje de compromiso con la hinchada tras su primera actuación oficial bajo los tres palos del América.",
-      date: "16 Feb 2026",
-      category: "ACTUALIDAD",
-      tag: "Fichajes",
-      image: "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
+      "title": "Jean Fernandes: 'Vine para ser campeón con La Mecha'",
+      "summary": "El portero paraguayo tuvo un debut impecable manteniendo el arco en cero ante Santa Fe. Tras el pitazo final, Jean envió un mensaje de compromiso total con la hinchada, ganándose los primeros aplausos de la tribuna.",
+      "date": "16 Feb 2026",
+      "category": "ACTUALIDAD",
+      "tag": "Debut",
+      "image": "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
     },
     {
-      title: "David González analiza la necesidad de un nuevo delantero",
-      summary: "El cuerpo técnico confirmó que buscan reforzar el ataque. Se rumora la disputa con Nacional por un delantero argentino para cerrar el mercado.",
-      date: "16 Feb 2026",
-      category: "MERCADO",
-      tag: "Rumores",
-      image: "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
+      "title": "¿Se viene un 'bombazo' argentino para el ataque?",
+      "summary": "David González confirmó en rueda de prensa que el mercado no está cerrado. América compite codo a codo con Atlético Nacional por el fichaje de un delantero de peso proveniente de la liga argentina para blindar la ofensiva.",
+      "date": "16 Feb 2026",
+      "category": "MERCADO",
+      "tag": "Fichajes",
+      "image": "https://a.espncdn.com/photo/2024/0429/r1326008_1296x729_16-9.jpg"
     }
   ];
 
