@@ -1,11 +1,7 @@
-@import "tailwindcss";
-
-@theme {
-  --color-escarlata: #C62828;
-  --color-carbon: #1A1A1A;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body {
-  background-color: #1A1A1A;
-  color: white;
+  @apply bg-[#1A1A1A] text-white;
 }
